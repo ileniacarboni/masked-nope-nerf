@@ -13,7 +13,8 @@ pip install -r requirements.txt
 
 ### Data and Preprocessing
 #### Segment Anything
-Coming Soon
+Download the pre-trained model following information from [this link](https://github.com/facebookresearch/segment-anything). Then modify the script given to adapt to your own dataset
+
 #### Monocular Depth Map Generation
 Monocular depth map generation: you can first download the pre-trained DPT model from [this link](https://drive.google.com/file/d/1dgcJEYYw1F8qirXhZxgNK8dWWz_8gZBD/view?usp=sharing) provided by [Vision Transformers for Dense Prediction](https://github.com/isl-org/DPT) to `DPT` directory, then run
 ```
