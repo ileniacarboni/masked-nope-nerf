@@ -1,0 +1,17 @@
+depth:
+  type: None
+pose:
+  learn_pose: True
+dataloading:
+  path: data/handheld_meta
+  scene: ['greendino_masked']
+  with_mask: True
+  customized_focal: True
+  random_ref: 1
+  load_colmap_poses: False
+training:
+  out_dir:  out/handheld_meta/greendino
+  auto_scheduler: True
+  eval_pose_every: -1
+extract_images:
+  resolution: [640, 640]
