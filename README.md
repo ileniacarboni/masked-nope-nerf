@@ -1,2 +1,6 @@
-# masked-nope-nerf
-Project Work in Image Processing and Computer Vision - Master's Degree in Artificial Intelligence, A.Y. 2023/2024
+# A Study of NoPe-NeRF for Novel View Synthesis of Handheld Objects
+
+Based on "NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior"[https://nope-nerf.active.vision/] (Wenjing Bian et al. 2023)
+
+### How to Replicate
+Coming Soon...
